@@ -10,4 +10,4 @@ A lightweight notes application that demonstrates **advanced DOM manipulation** 
 - Delete notes using event delegation
 - Simple, responsive design
 
-The live URL is at 
+The live URL is at https://gathigiaflorence.github.io/Q2-End-sem/
